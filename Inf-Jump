@@ -24,4 +24,3 @@ Mouse.KeyDown:connect(function(k)
 			_G.infinjump = true
 		end
 	end
-end)
